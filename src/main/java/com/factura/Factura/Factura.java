@@ -34,17 +34,14 @@ public class Factura {
     private Persona persona;
 
     public void setCliente(String cliente) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'setCliente'");
     }
 
     public void setVideojuego(String videojuego) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'setVideojuego'");
     }
 
     public void setTotal(double total) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'setTotal'");
     }
 
